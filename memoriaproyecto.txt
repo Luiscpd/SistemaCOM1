@@ -1,0 +1,55 @@
+http://carlini.es/gps-gy-neo6mv2-en-la-raspberry-pi/
+fallo 
+
+https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
+
+para leer gps con raspberry 
+sudo cat /dev/ttyAMA0
+
+SDR 
+https://muylinux.xyz/guia-para-principiantes-de-rtl-sdr-radio-definida-por-software-en-kali-linux/
+
+https://gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi
+
+guardar texto y hora del gps
+guardar archivo en memoria 
+guardar porcion iq en texto 
+
+csv
+
+[pendiente 
+https://www.google.com/search?q=crear+tabla+en+archivo+txt+en++python&sxsrf=ALiCzsaqxf075j9_Zqe4ElX6dMNevLCZvw%3A1655220530099&ei=MqmoYs3VBeXrkvQP7pO-2As&ved=0ahUKEwjNtuL9oK34AhXltYQIHe6JD7sQ4dUDCA4&uact=5&oq=crear+tabla+en+archivo+txt+en++python&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsANKBAhBGABKBAhGGABQtgZYoAtgnBJoAXABeACAAaABiAGDBZIBAzAuNZgBAKABAcgBCcABAQ&sclient=gws-wiz
+
+https://ellibrodepython.com/listas-en-python
+
+https://www.programarya.com/Cursos/Python/estructuras-de-datos/tablas
+
+https://www.google.com/search?q=matriz+de+strings+en+python&oq=matriz+de+strings+en+python+&aqs=chrome..69i57.8651j0j1&sourceid=chrome&ie=UTF-8
+
+https://es.acervolima.com/python-convertir-matriz-de-enteros-en-matriz-de-cadenas/
+
+https://python-para-impacientes.blogspot.com/2017/01/tablas-con-estilo-con-tabulate.html
+
+]
+
+SDR
+https://hamprojects.files.wordpress.com/2020/09/raspberry_tutorial10_espanol.pdf
+
+cada 10 segundos se toman lecturas 
+
+https://programacion.net/articulo/como_ejecutar_comandos_unix_en_tus_programas_de_python_1678
+
+http://kmkeen.com/rtl-power/
+
+https://recursospython.com/guias-y-manuales/introduccion-a-twisted/
+
+https://meet.google.com/tev-cwhf-xym?authuser=1
+
+https://www.delftstack.com/es/howto/python/how-to-read-csv-to-list-in-python/#:~:text=Python%20tiene%20un%20m%C3%B3dulo%20incorporado,en%20Python%20es%20el%20siguiente.&text=csv_reader%20%3D%20reader(csv_file)%20pasa,y%20obtiene%20el%20objeto%20reader%20.
+
+https://www.delftstack.com/es/howto/python/python-write-to-csv-line-by-line/
+
+
+https://www.delftstack.com/es/howto/python/write-list-to-csv-python/#:~:text=Escribe%20la%20lista%20en%20CSV%20en%20Python%20usando%20el%20m%C3%A9todo%20NumPy,-Este%20m%C3%A9todo%20utiliza&text=La%20funci%C3%B3n%20savetxt()%20de,de%20la%20lista%20de%20Python.
+
+
